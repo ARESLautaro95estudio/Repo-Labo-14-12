@@ -1,0 +1,8 @@
+E:\Facultad\5-Profesorado\2023 - DIV C\2C\Proyectos\Parciales\Sin Uso\RSP_14122023_DIV2C_Alumno\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.csproj.AssemblyReference.cache
+E:\Facultad\5-Profesorado\2023 - DIV C\2C\Proyectos\Parciales\Sin Uso\RSP_14122023_DIV2C_Alumno\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.FrmView.resources
+E:\Facultad\5-Profesorado\2023 - DIV C\2C\Proyectos\Parciales\Sin Uso\RSP_14122023_DIV2C_Alumno\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.Properties.Resources.resources
+E:\Facultad\5-Profesorado\2023 - DIV C\2C\Proyectos\Parciales\Sin Uso\RSP_14122023_DIV2C_Alumno\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.csproj.GenerateResource.cache
+E:\Facultad\5-Profesorado\2023 - DIV C\2C\Proyectos\Parciales\Sin Uso\RSP_14122023_DIV2C_Alumno\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultad\5-Profesorado\2023 - DIV C\2C\Proyectos\Parciales\Sin Uso\RSP_14122023_DIV2C_Alumno\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.AssemblyInfoInputs.cache
+E:\Facultad\5-Profesorado\2023 - DIV C\2C\Proyectos\Parciales\Sin Uso\RSP_14122023_DIV2C_Alumno\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.AssemblyInfo.cs
+E:\Facultad\5-Profesorado\2023 - DIV C\2C\Proyectos\Parciales\Sin Uso\RSP_14122023_DIV2C_Alumno\RSP_14122023_DI2C\obj\Debug\net6.0-windows\RSP_14122023_DIV2C.csproj.CoreCompileInputs.cache
